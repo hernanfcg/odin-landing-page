@@ -146,3 +146,32 @@ a {
     font-weight: 700;
     text-align: end;
 }
+
+.cta-container {
+    padding: 100px 200px;
+}
+
+.cta {
+    color: #E5E7EB;
+    background-color: #3882F6;
+    padding: 40px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.cta-txt h1 {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.cta-btn {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 700;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 4px 32px;
+}
